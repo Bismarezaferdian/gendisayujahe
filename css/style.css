@@ -1,0 +1,55 @@
+.slider h3,
+.slider h5 .parallax h3 {
+  text-shadow: 2px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+hr {
+  width: 70px;
+}
+
+.parallax img {
+  filter: grayscale(0.8);
+  opacity: 0.6 !important;
+}
+
+.place img {
+  max-width: 100px;
+  filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.8))
+}
+
+.carousel img {
+  box-shadow: 5px 5px 3px rgba(0, 0, 0, 2);
+}
+
+/* .about {
+  height: 400px;
+}
+
+
+
+.profil {
+  height: 600px;
+}
+
+
+.testimoni {
+  height: 650px;
+}
+
+
+
+.paralax-container {
+  max-height: 250px;
+}
+
+
+
+.contact {
+  height: 700px;
+}
+
+*/
+/* .gallery {
+        min-width: ;
+        max-height: auto;
+      } */
